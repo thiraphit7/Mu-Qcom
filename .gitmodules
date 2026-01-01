@@ -1,6 +1,7 @@
 [submodule "Binaries"]
 	path = Binaries
 	url = https://github.com/index986/Device-Binaries.git
+	branch = main
 [submodule "Common/Mu"]
 	path = Common/Mu
 	url = https://github.com/microsoft/mu_plus.git
